@@ -6,7 +6,7 @@ Find whether a site is safe or not using google safe browsing lookup API, using 
 Facade provides a simplified interface to a library, a framework, or any other complex set of classes.\
 This is a structural design pattern.
 
-You can read more from [here](https://refactoring.guru/design-patterns/facade)
+### **Read more** from [here](https://refactoring.guru/design-patterns/facade)
 
 
 ## Google Safe browsing lookup API
@@ -15,5 +15,10 @@ You can read more from [here](https://refactoring.guru/design-patterns/facade)
 
 ## Run this example
 - Create your own API key from the google console dashboard
+- Install dependencis: `composer install`
 - Provide **API key**, **Client ID** & **Client version** in this file: `src\SafeUrlLookup.php` for the respective constants: **API_KEY**, **CLIENT_ID** and **CLIENT_VERSION**
 - Run command from this folder: `php index.php`
+
+## File Breakdown
+- `src/SafeUrlLookup`: Main facade file
+- `index`: Starting point
