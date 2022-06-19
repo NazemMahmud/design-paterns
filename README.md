@@ -10,9 +10,9 @@ The design patterns thar are exampled in this repo:
 ## Structural patterns
 This design pattern explains how to assemble objects and classes into larger structures, along with keeping these structures flexible and efficient.
 
-### [Decorator](https://github.com/NazemMahmud/decorator-pattern)  
+### [Decorator](https://github.com/NazemMahmud/design-paterns-php/tree/main/Decorator)
 Attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.\
-Check [this repo](https://github.com/NazemMahmud/decorator-pattern) for example
+Check [this repo](https://github.com/NazemMahmud/design-paterns-php/tree/main/Decorator) for example
 
 ### [Facade](https://github.com/NazemMahmud/design-paterns-php/tree/main/facade)  
 Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.\
