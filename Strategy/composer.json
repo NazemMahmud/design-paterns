@@ -1,0 +1,21 @@
+{
+    "name": "piash/strategy-pattern",
+    "description": "A practical example of strategy pattern",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Piash\\StrategyPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nazem Mahmud Piash",
+            "email": "nazem.piash10@gmail.com"
+        }
+    ]
+}
