@@ -1,0 +1,19 @@
+{
+    "name": "piash/facade-pattern",
+    "description": "A practical example of facade pattern. Implementation of Google safe browsing lookup API",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nazem Mahmud Piash",
+            "email": "nazem.piash10@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Piash\\FacadePattern\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
