@@ -1,13 +1,11 @@
 # Mediator pattern
 Mediator is **behavioral** design pattern that allows objects to communicate with each other without the need for them to be aware of each other's identities. This pattern defines a mediator object that encapsulates the coordination logic between multiple objects.
 
-### More Details: [Documentation](https://docs.google.com/document/d/1x1Xk_y7dESYsaxAOsIKWWmlclnJkxktMf32RwfFknNE/edit#heading=h.xuyopzrj3dgw)
-[NEED DOC OR MEDIUM LINK]
+### More Details: [Documentation](https://medium.com/@nmpiash/mediator-pattern-with-an-example-of-a-chat-room-40593deb0cfa)
 
 ## Problem Domain
 
-- Provided an HTML text
-- Applied different types of filtering
+Communicate between users in a specific chatroom, without sending messages directly to others
 
 ## File Breakdown
 
