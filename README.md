@@ -29,6 +29,6 @@ Check [this repo](https://github.com/NazemMahmud/strategy-pattern) for example
 Allow objects to communicate with each other without the need for them to be aware of each other's identities. This pattern defines a mediator object that encapsulates the coordination logic between multiple objects.\
 Check [this repo](https://github.com/NazemMahmud/design-paterns/tree/mediator) for example
 
-### [Memento](https://github.com/NazemMahmud/design-paterns/tree/memento)
+### [Memento](https://github.com/NazemMahmud/design-paterns/tree/main/Memento)
 It lets you save and restore the previous state of an object without violating encapsulation (without revealing the details of its implementation).
-Check [this repo](https://github.com/NazemMahmud/design-paterns/tree/memento) for example
+Check [this repo](https://github.com/NazemMahmud/design-paterns/tree/main/Memento) for example
