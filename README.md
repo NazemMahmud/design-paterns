@@ -25,7 +25,7 @@ This type of patterns are concerned with algorithms and the assignment of respon
 Define a family of algorithms, put each of them into a separate class, and make their objects interchangeable.\
 Check [this repo](https://github.com/NazemMahmud/strategy-pattern) for example
 
-### [Mediator](https://github.com/NazemMahmud/design-paterns/tree/mediator)
+### [Mediator](https://github.com/NazemMahmud/design-paterns/tree/main/Mediator)
 Allow objects to communicate with each other without the need for them to be aware of each other's identities. This pattern defines a mediator object that encapsulates the coordination logic between multiple objects.\
 Check [this repo](https://github.com/NazemMahmud/design-paterns/tree/mediator) for example
 
